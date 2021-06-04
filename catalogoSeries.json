@@ -1,0 +1,93 @@
+{
+    "SeriesList":[{
+        "name":"Run the World",
+        "releaseyear": "2021",
+        "plot":"es una serie de ocho episodios de media hora de duración que cuenta la historia de un grupo de mujeres negras, vibrantes y leales mejores amigas, que trabajan, viven y juegan en Harlem mientras se esfuerzan por dominar el mundo. En esencia, es un programa femenino sin pelos en la lengua que trata de una amistad envidiable y de no sólo sobrevivir, sino de progresar juntas.",
+        "season":"1",
+        "episodes":"4",
+        "genre":"Drama"            
+    },
+    {
+        "name":"Gangs of London",
+        "releaseyear":"2020",
+        "plot":"Tras el asesinato del líder de una banda criminal, el vacío de poder amenaza la frágil paz entre la compleja red de pandillas que operan en las calles de Londres.",
+        "season":"1",
+        "episodes":"10",
+        "genre":"Accion & Crimen"
+    },
+    {
+        "name":"Pennyworth",
+        "releaseyearfirstseason":"2019",
+        "releaseyearsecondseason":"2021",
+        "plot":"Esta historia original de DC sigue al legendario mayordomo de Bruce Wayne, Alfred Pennyworth, exsoldado británico del Servicio Aéreo Especial que funda una empresa de seguridad y va a trabajar con el joven multimillonario Thomas Wayne, que aún no es el padre multimillonario de Bruce, en la década del 60 en Londres.",
+        "seasons":"2",
+        "episodes":"22",
+        "genre":"Drama"
+    },
+    {
+        "name":"Sr.Mercedes",
+        "releasefirstseason":"2017",
+        "releasesecondseason":"2018",
+        "releasethirdseason":"2019",
+        "plot":"Un asesino serial demente se burla de un policía retirado con una serie de cartas y correos electrónicos espeluznantes.",
+        "seasons":"3",
+        "episodes":"30",
+        "genre":"Crimen & Drama"
+    },
+    {
+        "name":"Penny Dreadful",
+        "releasefirstseason":"2014",
+        "releasesecondseason":"2015",
+        "releasethirdseason":"2016",
+        "plot":"Es un thriller psicológico lleno de un oscuro misterio y de suspenso, donde los demonios personales del pasado pueden ser más fuertes que los vampiros, los espíritus malignos y las bestias inmortales.",
+        "seasons":"3",
+        "episodes":"27",
+        "genre":"Drama"
+    },
+    {
+        "name":"Normal People",
+        "releaseyear":"2020",
+        "plot":"Desde la escuela a la universidad, Normal People sigue a Connell y Marianne mientras entretejen sus vidas en un programa que explora lo complicado que puede ser el amor joven.",
+        "season":"1",
+        "episodes":"13",
+        "genre":"Drama & Romántica"
+    },
+    {
+        "name":"Castle Rock",
+        "releasefirstseason":"2018",
+        "releasesecondseason":"2020",
+        "plot":"Lleva a los espectadores al escalofriante mundo del exitoso y aclamado Stephen King en esta serie de terror psicológico.",
+        "seasons":"2",
+        "episodes":"21",
+        "genre":"Drama & Fantasía"
+    },
+    {
+        "name":"The Borgias",
+        "releasefirstseason":"2011",
+        "releasesecondseason":"2012",
+        "releasethirdseason":"2013",
+        "plot":"Sexo. Poder. Asesinato. Amén. Jeremy Irons, ganador del Oscar®, protagoniza esta nueva y épica serie original de Showtime, The Borgias, la historia explosiva de la primera gran familia del crimen de la historia.",
+        "seasons":"3",
+        "episodes":"29",
+        "genre":"Drama"
+    },
+    {
+        "name":"The Girlfriend Experience",
+        "releasefirstseason":"2016",
+        "releasesecondseason":"2017",
+        "releasethirdseason":"2021",
+        "plot":"Es la reinvención de la aclamada película en 2009 del mismo nombre de Steven Soderbergh y explora las relaciones entre acompañantes exclusivas y sus clientes, para quienes proveen de mucho más cosas que solo sexo. Conocidas como acompañantes, son mujeres que proveen.La Experiencia de una Amiga—relaciones a un precio muy alto.",
+        "seasons":"3",
+        "episodes":"33",
+        "genre":"Drama"
+    },
+    {
+        "name":"The White Princess",
+        "releaseyear":"2017",
+        "plot":"Representa una turbulenta época de la historia británica desde la visión de las mujeres que encarnan una dura batalla por el poder.",
+        "season":"1",
+        "episodes":"8",
+        "genre":"Drama & Literaria"
+    }
+    ]
+}
