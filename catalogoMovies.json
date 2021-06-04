@@ -1,0 +1,166 @@
+{
+    "MovieList":[
+        {
+            "name":"Blade Runner 2049",
+            "releaseYear":"2017",
+            "plot":"Treinta años después de lo ocurrido en la primera película, un nuevo Blade Runner, el oficial de la Policía de Los Ángeles K, desentierra un viejo secreto que puede provocar el caos en lo que queda de sociedad. El descubrimiento de K le sitúa en la misión de encontrar a Rick Deckard, un antiguo policía que ha estado desaparecido durante los últimos 30 años",
+            "runtime":"9806",
+            "genre":"Ciencia ficción & Suspenso",
+            "director":"Denis Villenueve",
+            "cast":"Ryan Gosling, Harrison Ford, Ana de Armas,Sylvia Hoeks,Robin Wright, Jared Leto, Mackenzie Davis, Carla Juri, Lennie James,Dave Bautista, Hiam Abbass, Barkhad Abdi, David Dastmalchian, Wood Harris & Edward James Olmos"
+        },
+        {
+            "name":"Horizonte Profundo",
+            "releaseYear":"2016",
+            "plot":"Es una historia llena de heroísmo y acción, basada en los hechos reales que sucedieron en la plataforma de Deepwater Horizon en el Golfo de México en 2010. La historia narra la valentía de los trabajadores de la plataforma y los momentos de coraje. En esta batalla de supervivencia durante lo que se convertía en uno de los mayores desastres naturales hechos por el hombre.",
+            "runtime":"6427",
+            "genre":"Acción & Drama",
+            "director":"Peter Berg",
+            "cast":"'Mark Wahlberg', 'Kurt Russell', 'Douglas M. Griffin', 'James DuMont', 'Joe Chrest', 'Gina Rodriguez', 'Brad Leland', 'John Malkovich', 'Dave Maldonado', 'J.D. Evermore', 'Ethan Suplee', 'Jason Kirkpatrick', 'Kate Hudson', 'Stella Allen' & 'Dylan O'Brien'"
+        },
+        {
+            "name":"King Kong",
+            "releaseYear":"2005",
+            "plot":"Naomi Watts interpreta a Ann Darrow, una actriz de vodevil que se queda sin trabajo durante la Gran Depresión en Nueva York.",
+            "runtime":"11235",
+            "genre":"Acción",
+            "director":"Peter Jackson",
+            "cast":"'Naomi Watts', 'Jack Black', 'Adrien Brody', 'Andy Serkis', 'Jamie Bell', 'Kyle Chandler', 'Lobo Chan', 'Thomas Kretschmann','Colin Hanks', 'David Dengelo', 'Stephen Hall"
+        },
+        {
+            "name":"Tierra de Zombies",
+            "releaseYear":"2009",
+            "plot":"Gracias a que todo le provoca miedo, Columbus, un estudiante con pocas dotes sociales, sobrevivió a la plaga que convirtió a la humanidad en zombis caníbales. Tallahassee, un loco por las armas y los Twinkies, no le teme a nada.",
+            "runtime":"5262",
+            "genre":"Comedia & De terror",
+            "director":"Ruben Fleischer",
+            "cast":"'Woody Harrelson', 'Jesse Eisenberg', 'Emma Stone', 'Abigail Breslin', 'Amber Heard', 'Derek Graf', 'Victory Van Tuyl'"
+        },
+        {
+            "name":"Mi novio es un Zombie",
+            "releaseYear":"2013",
+            "plot":"Después del apocalipsis zombie, la sobreviviente Julie es rescatada de un ataque de zombies por R, quién también es uno de los muertos vivientes. Sin embargo, a medida que su relación se desarrolla, R aparentemente comienza a volverse humano de nuevo.",
+            "runtime":"5864",
+            "genre":"Comedia & De terror",
+            "director":"Jonathan Levine",
+            "cast":"'Nicholas Hoult', 'Teresa Palmer', 'John Malkovich', 'Rob Corddry', 'keyedRoles': [{'name': 'Actor', 'key': 'C'}]}, {'id': 4707257, 'name': 'Dave Franco', 'keyedRoles': [{'name': 'Actor', 'key': 'C'}]}, {'id': 4695315, 'name': 'Analeigh Tipton', 'keyedRoles': [{'name': 'Actor', 'key': 'C'}]}, {'id': 4687373, 'name': 'Cory Hardrict', 'keyedRoles': [{'name': 'Actor', 'key': 'C'}]}, {'id': 5187727, 'name': 'Daniel Rindress-Kay', 'keyedRoles': [{'name': 'Actor', 'key': 'C'}]}, {'id': 5187724, 'name': 'Vincent Leclerc', 'keyedRoles': [{'name': 'Actor', 'key': 'C'}]}, {'id': 5187731, 'name': 'Clifford LeDuc-Vaillancourt', 'keyedRoles': [{'name': 'Actor', 'key': 'C'}]}, {'id': 5187728, 'name': 'Billie Calmeau', 'keyedRoles': [{'name': 'Actor', 'key': 'C'}]}, {'id': 5187726, 'name': 'Adam Driscoll', 'keyedRoles': [{'name': 'Actor', 'key': 'C'}]}, {'id': 5187725, 'name': 'Chris Cavener', 'keyedRoles': [{'name': 'Actor', 'key': 'C'}]}, {'id': 5187730, 'name': 'Jonathan Dubsky', 'Alec Bourgeois'"
+        },
+        {
+            "name":"Baby: El Aprendiz Del Crimen",
+            "releaseYear":"2017",
+            "plot":"Baby (ANSEL ELGORT), un joven y talentoso conductor especialista en huidas, utiliza el ritmo de sus canciones preferidas para ser el mejor en el negocio.",
+            "runtime":"6759",
+            "genre":"Acción & Comedia",
+            "director":"Edgar Wright",
+            "cast":"'Ansel Elgort', 'Kevin Spacey', 'Lily James', 'Jon Bernthal', 'Jon Hamm', 'Jamie Foxx', 'Eiza González', 'Flea', 'Sky Ferreira', 'Lanny Joon'"
+        },
+        {
+            "name":"Los ilusionistas: Nada es lo que parece 2",
+            "releaseYear":"2016",
+            "plot":"Los Cuatro Jinetes regresan en NADA ES LO QUE PARECE 2 para una segunda compleja aventura que elevará los límites de la ilusión sobre el escenario a nuevas alturas con el objetivo de limpiar sus nombres y exponer la crueldad de un peligroso magnate tecnológico.",
+            "runtime":"7750",
+            "genre":"De aventuras & Comedia",
+            "director":"Jon Chu",
+            "cast":"'Jesse Eisenberg', 'Mark Ruffalo', 'Woody Harrelson', 'Dave Franco', 'Daniel Radcliffe', 'Lizzy Caplan', 'Morgan Freeman', 'Michael Caine', 'Jay Chou', 'Sanaa Lathan'"
+        },
+        {
+            "name":"Damas en Guerra",
+            "releaseYear":"2011",
+            "plot":"Annie de treinta y tantos años ha tenido una mala racha y su vida está se pone de cabeza cuando acepta ser la Dama de Honor de la boda de su mejor amiga Lillian.",
+            "runtime":"7485",
+            "genre":"Comedia",
+            "director":"Paul Feig",
+            "cast":"'Kristen Wiig', 'Maya Rudolph', 'Rose Byrne', 'Ellie Kemper', 'Wendi McLendon-Covey', 'Melissa McCarthy','Chris O'Dowd', 'Matt Lucas', 'Jill Clayburgh', 'Rebel Wilson', 'Michael Hitchcock'"
+        }, 
+        {
+            "name":"Las Ventajas de Ser Invisible",
+            "releaseYear":"2012",
+            "plot":"Drama protagonizado por Emma Watson y Ezra Miller, basado en la novela de Stephen Chbosky. Charlie siempre ha sido un introvertido, pero es forzado a salir de las sombras cuando conoce a Sam y a su hermanastro amante de la aventura Patrick. Juntos, el trío inicia un viaje de descubrimiento mientras exploran el amor, la sexualidad, la música y las fiestas salvajes.",
+            "runtime":"6154",
+            "genre":"Drama & Romántica",
+            "director":"Stephen Chbosky",
+            "cast":"'Logan Lerman', 'Emma Watson', 'Ezra Miller', 'Mae Whitman', 'Kate Walsh', 'Dylan McDermott', 'Melanie Lynskey', 'Joan Cusack', 'Paul Rudd', 'Nina Dobrev', 'Adam Hagenbuch', 'Johnny Simmons', 'Erin Wilhelmi', 'Reece Thompson'"
+        },
+        {
+            "name":"Hellboy 2: El Ejercito Dorado",
+            "releaseYear":"2008",
+            "plot":"Al romperse la vieja tregua existente entre los seres humanos y el reino de lo fantástico, el infierno está a punto de estallar en la tierra.",
+            "runtime":"7171",
+            "genre":"Acción & De terror",
+            "director":"Guillermo Del Toro",
+            "cast":"'Ron Perlman', 'Selma Blair', 'Doug Jones', 'Jeffrey Tambor', 'John Hurt', 'Luke Goss', 'Anna Walton', 'John Alexander', 'James Dodd', 'Brian Steele', 'Andrew Hefler', 'Ivan Kamaras', 'Mike Kelly', 'Roy Dotrice'"
+        },
+        {
+            "name":"Si yo tuviera 30",
+            "releaseYear":"2004",
+            "plot":"Con la ayuda de un poco de polvo mágico de los deseos, la entonces chica de 13 años Jenna Rink (Garner) se convierte en una treintañera hermosa de la noche a la mañana, con todo lo que siempre deseó, a excepción de su mejor amigo Matt (Ruffalo).",
+            "runtime":"5868",
+            "genre":"Comedia & Comedia romántica",
+            "director":"Gary Winick",
+            "cast":"'Jennifer Garner', 'Mark Ruffalo', 'Judy Greer', 'Andy Serkis', 'Kathy Baker', 'Phil Reeves', 'Samuel Ball', 'Marcia DeBonis', 'Christa B. Allen', 'Sean Marquette', 'Kiersten Warren', 'Rita Hsiao'"
+        },
+        {
+            "name":"Terminator la salvación",
+            "releaseYear":"2009",
+            "plot":"Ambientada en un postapocalíptico 2018, John Connor es el hombre destinado a guiar a la resistencia humana contra Skynet y su banda de Terminators. Pero la aparición de Marcus Wright lo cambia todo.",
+            "runtime":"6885",
+            "genre":"Acción & De aventuras",
+            "director":"'McG'",
+            "cast":"Christian Bale', 'Sam Worthington', 'Moon Bloodgood', 'Helena Bonham Carter', 'Anton Yelchin', 'Jadagrace Berry', 'Bryce Dallas Howard', 'Common', 'Jane Alexander', 'Michael Ironside', 'Ivan G'Vera', 'Chris Browning', 'Dorian Nkono', 'Beth Bailey', 'Victor Ho', 'Buster Reeves', 'Kevin Wiggins', 'Greg Serano'" 
+        },
+        {
+            "name":"Robin Hood",
+            "releaseYear":"2010",
+            "plot":"Cuando Ricardo muere, Robin se traslada a Nottingham, una ciudad dirigida por un 'sheriff' corrupto que exige impuestos exorbitantes.",
+            "runtime":"8416",
+            "genre":"Acción & Drama",
+            "director":"'Ridley Scott'",
+            "cast":"'Russell Crowe', 'Cate Blanchett', 'William Hurt', 'Matthew Macfadyen', 'Mark Strong', 'Oscar Isaac', 'Scott Grimes', 'Kevin Durand', 'Alan Doyle', 'Danny Huston', 'Max von Sydow', 'Mark Addy', 'Eileen Atkins', 'Léa Seydoux', 'Mark Lewis Jones', 'Douglas Hodge'"
+        },
+        {
+            "name":"Lo Imposible",
+            "releaseYear":"2012",
+            "plot":"Esta película aclamada por la por Naomi Watts y Ewan McGregor está basada en la verdadera historia de una familia atrapada en una de las peores catástrofes naturales de nuestro tiempo, el tsunami del 2004, que devastó el sudeste asiático.",
+            "runtime":"6819",
+            "genre":"Drama & Misterio/Suspenso",
+            "director":"J.A. Bayona",
+            "cast":"'Naomi Watts', 'Ewan McGregor', 'Tom Holland', 'Samuel Joslin', 'Oaklee Pendergast', 'Marta Etura',  'Sönke Möhring',  'Geraldine Chaplin', 'Johan Sundberg', 'Ploy Jindachot', 'Jan Sundberg', 'La-Orng Thongruang', 'Tor Klathaley', 'Douglas Johansson', 'Emilio Riccardi', 'John Albasiny'"
+        },
+        {
+            "name":"Noche de brujas",
+            "releaseYear":"1978",
+            "plot":"En Halloween, Michael Myers aterroriza a una adolescente y sus amigos.",
+            "runtime":"5475",
+            "genre":"De terror",
+            "director":"John Carpenter",
+            "cast":"'Donald Pleasence', 'Jamie Lee Curtis', 'Nancy Kyes', 'P.J. Soles', 'Charles Cyphers', 'Kyle Richards', 'Brian Andrews', 'Arthur Malet'"
+        },
+        {
+            "name":"La maldición",
+            "releaseYear":"2004",
+            "plot":"Karen es una enfermera estadounidense que vive en Tokio y está expuesta a una misteriosa maldición sobrenatural. La maldición es un espíritu vengativo que posee a una persona en una rabia poderosa antes de reclamar su vida.",
+            "runtime":"5476",
+            "genre":"De terror & Misterio",
+            "director":"Takashi Shimizu",
+            "cast":"'Sarah Michelle Gellar', 'Jason Behr', 'William Mapother', 'Clea DuVall', 'Kadee Strickland', 'Grace Zabriskie', 'Bill Pullman', 'Rosa Blasi', 'Ted Raimi', 'Ryo Ishibashi', 'Yôko Maki', 'Yuya Ozeki', 'Takako Fuji'"
+        },
+        {
+            "name":"Resucitados",
+            "releaseYear":"2015",
+            "plot":"Un equipo de estudiantes de investigación está haciendo un mapa del cerebro humano, cuando accidentalmente matan a uno de ellos. El resto, al intentar reanimar a su colega, desatarán una fuerza letal. Luchando por sus vidas, el equipo deberá contener al recién vuelto a la vida en el laboratorio antes de que se entere en el mundo entero.",
+            "runtime":"4988",
+            "genre":"De terror & Misterio/Suspenso",
+            "director":"David Gelb",
+            "cast":"'Mark Duplass', 'Olivia Wilde', 'Donald Glover', 'Evan Peters', 'Sarah Bolger', 'Ray Wise', 'Scott Sheldon', 'Emily Kelavos', 'James Earl', 'Amy Aquino', 'Sean T. Krishnan'"
+        },
+        {
+            "name":"La noche de la expiación",
+            "releaseYear":"2013",
+            "plot":"Cuando un intruso irrumpe en el barrio cerrado de Sandin (Ethan Hawke) durante el cierre anual, él comienza a vivir una serie de hechos que amenazan con desmembrar a la familia.",
+            "runtime":"5108",
+            "genre":"De terror",
+            "director":"'James DeMonaco'",
+            "cast":"'Ethan Hawke', 'Lena Headey', 'Adelaide Kane', 'Max Burkholder', 'Edwin Hodge', 'Rhys Wakefield', 'Tony Oller', 'Arija Bareikis', 'Tom Yi', 'Chris Mulkey', 'Tisha French', 'Dana Bunch', 'Peter Gvozdas'"
+        }    
+    ]
+}
